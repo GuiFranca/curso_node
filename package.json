@@ -13,6 +13,7 @@
   "author": "Guilherme França",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "consign": "^0.1.6",
     "ejs": "^2.5.6",
     "express": "^4.15.3",
